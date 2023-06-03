@@ -1,2 +1,4 @@
-keyboard
-discord_webhook
+httpx==0.23.0
+pynput==1.7.6
+pywin32==304
+wmi==1.5.1
